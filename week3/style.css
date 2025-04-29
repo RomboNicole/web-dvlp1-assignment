@@ -1,0 +1,46 @@
+/* Apply font and background color */
+body {
+
+    background-color: #fff0fca8;
+    margin: 0;
+    padding: 20px;
+    color: #333333;
+  }
+  
+  /* Style main header */
+  #main-header {
+    color: black;
+    font-size: 2.5em;
+    border-bottom: 3px black;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style intro paragraph */
+  .intro {
+    font-size: 1.2em;
+    line-height: 1.6;
+    background-color: #ffeedf;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+  }
+  
+  /* Style the image */
+  .styled-image {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    border: 5px solid #9d52ff07;
+    border-radius: 12px;
+    margin: 20px auto;
+  }
+  
+  /* Footer text */
+  #footer-text {
+    font-size: 1em;
+    text-align: center;
+    color: blue;
+    margin-top: 40px;
+  }
+  
