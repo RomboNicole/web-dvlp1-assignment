@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f0f0f0;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 15px;
+    border: none;
+    background: #3498db;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #2980b9;
+  }
+  
+  .tab-content {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  .tab-content.active {
+    display: block;
+  }
+  
+  input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 250px;
+  }
+  
+  #formFeedback {
+    color: red;
+  }
+  
